@@ -58,7 +58,6 @@ This project leverages Docker to deploy WordPress locally or on a server, includ
 Ensure you have the following:
 - A system with Docker and Docker Compose installed
 - **Optional**: NGINX installed on the host system for reverse proxy
-- About 20–30 minutes
 
 ---
 
