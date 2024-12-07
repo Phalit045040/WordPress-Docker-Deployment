@@ -14,8 +14,9 @@ This project demonstrates deploying **WordPress**, a popular content management 
 6. [Setting Up NGINX Proxy (Optional)](#setting-up-nginx-proxy-optional)
 7. [Downloading and Installing WordPress](#downloading-and-installing-wordpress)
 8. [Accessing WordPress](#accessing-wordpress)
-9. [Acknowledgements](#acknowledgements)
-10. [Video](#video)
+9. [Video](#video)
+10. [Acknowledgements](#acknowledgements)
+
 
 ---
 
@@ -209,13 +210,6 @@ rm -f latest.tar.gz
 
 ---
 
-## Acknowledgements
-
-Special thanks to:
-- **Prof. Ashok Harnal**: For providing insights into Docker-based deployments.
-- **Abhinav Reddy (CoralNodes)**: For video guidance and sharing the repository and configuration files.
-
----
 
 ## Video
 
@@ -224,6 +218,12 @@ Special thanks to:
 https://github.com/user-attachments/assets/a6a8fee7-fb35-45f7-a9cc-84c8ad623a06
 
 
-
 ---
 
+## Acknowledgements
+
+Special thanks to:
+- **Prof. Ashok Harnal**: For providing insights into Docker-based deployments.
+- **Abhinav Reddy (CoralNodes)**: For video guidance and sharing the repository and configuration files.
+
+---
